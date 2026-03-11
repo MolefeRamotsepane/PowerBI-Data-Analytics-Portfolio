@@ -40,8 +40,3 @@ The Adventure Works Inventory1.xlsx file contains a **Products worksheet** with 
 - Organizational and problem-solving skills  
 
 ---
-
-## Screenshots
-
-![Filtering Gear Components](./screenshots/gear-components.png)  
-![Filtering Mountain Bike Orders](./screenshots/mountain-bike.png)
